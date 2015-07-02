@@ -1,5 +1,5 @@
 # simple-site-template
-A pared-down, basic site template. Includes JQUERY and FontAwesome. Responsive.
+A pared-down, minimalist site template. Includes JQUERY, FontAwesome and Google Font "Roboto". Responsive.
 
 
 Usage:
